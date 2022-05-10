@@ -128,7 +128,7 @@ Go up one directory:
 ```
 cd ..
 ls (you should see popcorn named .deb files)
-sudo apt install ./*.deb (going to create a repo to host the .deb files)
+sudo apt install ./*.deb (going to create a repo to host the .deb files https://github.com/Krish-sysadmin/kernel_deb)
 ```
 Edit grub like 
 
